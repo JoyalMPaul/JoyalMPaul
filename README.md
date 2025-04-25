@@ -1,4 +1,7 @@
 # 💫 About Me:
+![Github Img](https://github.com/user-attachments/assets/c8715542-8313-4029-8351-2d524354441a)
+
+
 👋 Hello, I'm Joyal!
 
 📊 Aspiring Data Scientist | 💻 Software Developer 
