@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a personal website using Django<br>
+I am currently working on a personal website using Django
 
 
 ## 🌐 Socials:
