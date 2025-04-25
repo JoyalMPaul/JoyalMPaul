@@ -8,7 +8,6 @@
 🤖 Exploring AI/ML, cloud computing, and backend dev  
 🧠 Learning Django and MySQL
 
-
 👥 Participating in clubs: ACM, ColorStack, Game Development Group
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research  
