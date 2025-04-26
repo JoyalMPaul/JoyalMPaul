@@ -11,8 +11,7 @@
 🛠️ Skills: Python | C | Assembly | Git  
 🤖 Exploring AI/ML, cloud computing, and backend dev  
 🧠 Learning Django and MySQL  
-👥 Participating in clubs: ACM, ColorStack, Game Development Group  
-[![FRC Team 5123](https://img.shields.io/badge/FRC--5123-Robo--Hawks-blue?style=for-the-badge&logo=robotframework)](https://www.thebluealliance.com/team/5123)
+👥 Participating in clubs: ACM, ColorStack, Game Development Group  [![FRC Team](https://img.shields.io/badge/FRC-Team%206328-blue?style=for-the-badge&logo=robotframework)](https://www.thebluealliance.com/team/6328)
 
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research  
