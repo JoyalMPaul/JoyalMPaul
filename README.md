@@ -7,7 +7,8 @@
 
 📊 **Aspiring Data Scientist** | 💻 **Software Developer** 
 
-🎓 Current Freshman studying CS at Binghamton University 
+🎓 Current Freshman studying CS at Binghamton University <br> 
+🛠️ Skills: Python | C | Assembly | Git  
 🤖 Exploring AI/ML, cloud computing, and backend dev  
 🧠 Learning Django and MySQL  
 👥 Participating in clubs: ACM, ColorStack, Game Development Group  
