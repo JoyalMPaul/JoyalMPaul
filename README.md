@@ -1,5 +1,7 @@
-# 💫 About Me:
----
+<h2>💫 About Me</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-&nbsp;-000000?style=for-the-badge&logoColor=white&color=white&labelColor=000000" />
+</p>
 
 ![image](https://github.com/user-attachments/assets/dc13aa4e-1c91-49a6-956c-613c4ca4aaff)
 
