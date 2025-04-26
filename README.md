@@ -11,8 +11,7 @@
 🛠️ Skills: Python | C | Assembly | Git  
 🤖 Exploring AI/ML, cloud computing, and backend dev  
 🧠 Learning Django and MySQL  
-👥 Participating in clubs: ACM, ColorStack, Game Development Group  [![FRC Team](https://img.shields.io/badge/FRC-Team%206328-blue?style=for-the-badge&logo=robotframework)](https://www.thebluealliance.com/team/6328)
-
+👥 Participating in clubs: ACM, ColorStack, Game Development Group  
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research  
 📫 Let’s connect! Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-paul-955280354/) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyalmathewpaul@gmail.com) 
