@@ -24,8 +24,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalMPaul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Last Updated](https://img.shields.io/github/last-commit/JoyalMPaul/JoyalMPaul?style=flat-square)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
