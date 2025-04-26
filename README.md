@@ -5,7 +5,7 @@
 
 👋 Hello, I'm Joyal!
 
-📊 Aspiring Data Scientist | 💻 Software Developer 
+📊 **Aspiring Data Scientist** | 💻 **Software Developer** 
 
 🎓 Current Freshman studying CS at Binghamton University  
 🛠️ Skills: Python | C | Assembly | Git  
