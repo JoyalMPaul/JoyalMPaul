@@ -14,7 +14,7 @@
 👥 Participating in clubs: ACM, ColorStack, Game Development Group  
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research  
-📫 Let’s connect! [Email](mailto:joyalmathewpaul@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joyal-paul-955280354/)
+📫 Let’s connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-paul-955280354/) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyalmathewpaul@gmail.com) 
 
 
 
