@@ -14,21 +14,7 @@
 👥 Participating in clubs: ACM, ColorStack, Game Development Group 
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research <br> 
-<h2 align="center">📫 Let’s connect!</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/joyal-paul-955280354/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:joyalmathewpaul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/JoyalMPaul/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.youtube.com/@JoyalPaul-28">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+📫 Let’s connect! Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-paul-955280354/) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyalmathewpaul@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/JoyalMPaul/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@JoyalPaul-28)
 
 
 # 💻 Tech Stack: 
