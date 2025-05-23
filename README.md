@@ -10,7 +10,7 @@
 🎓 Current Freshman studying CS at Binghamton University <br> 
 🛠️ Skills: Python | C | Assembly | Git <br>
 🤖 Exploring AI/ML, cloud computing, and backend dev <br> 
-🧠 Learning PyTorch and Azure <br>
+🧠 Learning PyTorch and Azure DevOps <br>
 👥 Participating in clubs: ACM, ColorStack, Game Development Group 
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research <br> 
