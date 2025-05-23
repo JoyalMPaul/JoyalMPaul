@@ -14,7 +14,8 @@
 👥 Participating in clubs: ACM, ColorStack, Game Development Group 
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research <br> 
-📫 Let’s connect! Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-paul-955280354/) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyalmathewpaul@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)]([https://leetcode.com/YOUR_USERNAME/](https://leetcode.com/u/JoyalMPaul/)) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)]([https://www.youtube.com/@YOUR_CHANNEL](https://www.youtube.com/@JoyalPaul-28))
+📫 Let’s connect! Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-paul-955280354/) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyalmathewpaul@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/JoyalMPaul/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@JoyalPaul-28)
+
 
 # 💻 Tech Stack: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
