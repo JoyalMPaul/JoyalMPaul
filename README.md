@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/dc13aa4e-1c91-49a6-956c-613c4ca4aaff)
 
 
-👋 Hello, I'm Joyal!
+👋 Hello, I'm Joyal! 
 
 📊 **Aspiring Data Scientist** | 💻 **Software Developer** 
 
@@ -15,7 +15,7 @@
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research <br> 
 📫 Let’s connect! Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-paul-955280354/) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyalmathewpaul@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/JoyalMPaul/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@JoyalPaul-28)
-
+👉 Check out: [my website](https://joyalmathewpaul.wixsite.com/joyalpaul)
 
 # 💻 Tech Stack: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
