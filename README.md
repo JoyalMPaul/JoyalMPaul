@@ -52,8 +52,10 @@
 
 
 ## 📊 GitHub Stats: 
-&nbsp;![](https://nirzak-streak-stats.vercel.app/?user=JoyalMPaul&theme=dark&hide_border=false)&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalMPaul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JoyalMPaul&theme=dark&hide_border=false" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalMPaul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 
 ## 🔝 Top Contributed Repos: 
