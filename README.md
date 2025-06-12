@@ -10,7 +10,7 @@
 🎓 Current Freshman studying CS at Binghamton University <br> 
 🛠️ Skills: Python | C | Assembly | Git <br>
 🤖 Exploring AI/ML, cloud computing, and backend development <br> 
-🧠 Learning PyTorch and Azure DevOps <br>
+🧠 Learning PyTorch and ASP.NET <br>
 👥 Participating in clubs: ACM, ColorStack, Game Development Group 
 
 💼 Open to part-time jobs, internships, volunteering, micro-internships, and research <br> 
@@ -39,6 +39,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019688?style=for-the-badge&logo=vim&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
