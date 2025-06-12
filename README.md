@@ -57,7 +57,7 @@
 
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=JoyalMPaul&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=JoyalMPaul&theme=radical&title=YOUR_TROPHY_NAME)
+![](https://github-profile-trophy.vercel.app/?username=JoyalMPaul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## ✍️ Random Dev Quote:
