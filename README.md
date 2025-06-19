@@ -44,7 +44,8 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019688?style=for-the-badge&logo=vim&logoColor=white)
 
-![SPIM](https://img.shields.io/badge/SPIM-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![SPIM](https://img.shields.io/badge/SPIM-000000?style=for-the-badge&logo=code&logoColor=white)
+
 
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-FFFFFF?style=for-the-badge&logo=powershell&logoColor=5391FE)
