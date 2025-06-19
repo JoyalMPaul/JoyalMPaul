@@ -47,7 +47,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-%F0%9F%94%A7-blue?style=for-the-badge)
+![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-🔧-blue?style=for-the-badge)
 
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-A8E06B?style=for-the-badge&logo=kivy&logoColor=white)
