@@ -40,15 +40,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-FFFFFF?style=for-the-badge&logo=powershell&logoColor=5391FE)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019688?style=for-the-badge&logo=vim&logoColor=white)
-
-![⚙SPIM](https://img.shields.io/badge/SPIM-000000?style=for-the-badge&logo=code&logoColor=white)
-
-
-
-![PowerShell](https://img.shields.io/badge/PowerShell-FFFFFF?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![SPIM](https://img.shields.io/badge/SPIM-000000?style=for-the-badge&logo=code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white)
