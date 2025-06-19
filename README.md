@@ -46,10 +46,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-FFFFFF?style=for-the-badge&logo=powershell&logoColor=5391FE)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-
 ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-A8E06B?style=for-the-badge&logo=kivy&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
