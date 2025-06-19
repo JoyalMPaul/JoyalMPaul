@@ -43,6 +43,10 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019688?style=for-the-badge&logo=vim&logoColor=white)
+
+![SPIM](https://img.shields.io/badge/SPIM-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-FFFFFF?style=for-the-badge&logo=powershell&logoColor=5391FE)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
