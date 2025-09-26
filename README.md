@@ -27,6 +27,7 @@
 
 ## Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mssql)](https://skillicons.dev)
+<img src="https://icons.iconarchive.com/icons/icons8/windows-8/256/Files-Sql-icon.png" alt="MSSQL" height="40" style="vertical-align:middle"/>
 
 ## IDEs / Development / Cloud:
 [![My Skills](https://skillicons.dev/icons?i=jupyter,vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,adobe,powershell,azure,azuredevops)](https://skillicons.dev)
