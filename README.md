@@ -18,26 +18,12 @@
 👉 Check out: [My Website](https://joyalmathewpaul.wixsite.com/joyalpaul) <br>
 
 # 💻 Tech Stack: 
-
-## Languages: 
 [![My Skills](https://skillicons.dev/icons?i=python,cs,c,java,dart,html,css,js)](https://skillicons.dev)
-          
-## Frameworks
 [![My Frameworks](https://skillicons.dev/icons?i=pytorch,dotnet,django,bootstrap,flutter)](https://skillicons.dev)
-
-## Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,adobe,powershell,azure,azuredevops)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" height="40" style="vertical-align:middle;" />
-          
-
-## IDEs / Development / Cloud:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" style="vertical-align:middle;"/>          
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,adobe,powershell,azure,azuredevops"
-       height="40"
-       style="vertical-align:middle;">
-</a>
-
 
 ## 📊 GitHub Stats: 
 ![](https://nirzak-streak-stats.vercel.app/?user=JoyalMPaul&theme=dark&hide_border=false&v=2) &nbsp;
