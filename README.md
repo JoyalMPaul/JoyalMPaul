@@ -21,7 +21,6 @@
 
 ## Languages: 
 [![My Skills](https://skillicons.dev/icons?i=python,cs,c,java,dart,html,css,js)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
           
 ## Frameworks
 [![My Frameworks](https://skillicons.dev/icons?i=pytorch,dotnet,django,bootstrap,flutter)](https://skillicons.dev)
@@ -29,6 +28,7 @@
 ## Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mssql)](https://skillicons.dev)
 <img src="https://icons.iconarchive.com/icons/icons8/windows-8/256/Files-Sql-icon.png" alt="MSSQL" height="40" style="vertical-align:middle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MSSQL" height="40" style="vertical-align:middle;" />
 
 ## IDEs / Development / Cloud:
 [![My Skills](https://skillicons.dev/icons?i=jupyter,vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,adobe,powershell,azure,azuredevops)](https://skillicons.dev)
