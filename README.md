@@ -29,11 +29,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" style="vertical-align:middle;"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="AzureDevops" height="40" style="vertical-align:middle;"/>
 <img src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="Adobe" height="40" style="vertical-align:middle;"/>
+<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Render.png?token=GHSAT0AAAAAADJQLB6VKMEBJTQ7KM7DF2GM2GXCU5A" alt="Render" height="40" style="vertical-align:middle;"/>
 <img src="https://img.icons8.com/?size=100&id=w9gsKSM38X2h&format=png&color=000000" alt="Wix" height="40" style="vertical-align:middle;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="40" style="vertical-align:middle;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002" alt="Kivy" height="40" style="vertical-align:middle;">
-
-<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Render.png?token=GHSAT0AAAAAADJQLB6VKMEBJTQ7KM7DF2GM2GXCU5A"/>
+<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Spim.png?token=GHSAT0AAAAAADJQLB6UZ4BJ4YSB7TIVN23K2GXC3PQ" alt="Spim" height="40" style="vertical-align:middle;"/>
+<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Mips_Assembly.png?token=GHSAT0AAAAAADJQLB6UNZMZZIM66PNXBGME2GXC4KQ" alt="MIPS" height="40" style="vertical-align:middle;"/>
 
 ## 📊 GitHub Stats: 
 ![](https://nirzak-streak-stats.vercel.app/?user=JoyalMPaul&theme=dark&hide_border=false&v=2) &nbsp;
