@@ -21,9 +21,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cs,c,java,dart,html,css,js)](https://skillicons.dev)
 [![My Frameworks](https://skillicons.dev/icons?i=pytorch,dotnet,django,bootstrap,flutter)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,adobe,powershell,azure,azuredevops)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,powershell,azure,azuredevops)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" height="40" style="vertical-align:middle;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" style="vertical-align:middle;"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" style="vertical-align:middle;"/>   
+<img src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="Adobe" height="40" style="vertical-align:middle;"/>
 
 ## 📊 GitHub Stats: 
 ![](https://nirzak-streak-stats.vercel.app/?user=JoyalMPaul&theme=dark&hide_border=false&v=2) &nbsp;
