@@ -33,6 +33,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="40" style="vertical-align:middle;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002" alt="Kivy" height="40" style="vertical-align:middle;">
 
+<img src="https://github.com/JoyalMPaul/Assets/blob/main/Render.png"/>
+
 ## 📊 GitHub Stats: 
 ![](https://nirzak-streak-stats.vercel.app/?user=JoyalMPaul&theme=dark&hide_border=false&v=2) &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalMPaul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=2)
