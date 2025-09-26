@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cs,c,java,dart,html,css,js)](https://skillicons.dev)
 
 ## Frameworks / Libraries
-[![My Frameworks](https://skillicons.dev/icons?i=pytorch,django,bootstrap,flutter)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=pytorch,dotnet,django,bootstrap,flutter)](https://skillicons.dev)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
