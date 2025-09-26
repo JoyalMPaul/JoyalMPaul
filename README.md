@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="40" style="vertical-align:middle;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002" alt="Kivy" height="40" style="vertical-align:middle;">
 <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Spim.png?token=GHSAT0AAAAAADJQLB6UZ4BJ4YSB7TIVN23K2GXC3PQ" alt="Spim" height="40" style="vertical-align:middle;"/>
-<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Mips_Assembly.png?token=GHSAT0AAAAAADJQLB6UNZMZZIM66PNXBGME2GXC4KQ" alt="MIPS" height="40" style="vertical-align:middle;"/>
+<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Mips.png?token=GHSAT0AAAAAADJQLB6VSJBUHTWTWSG2XO2W2GXC72A" alt="MIPS" height="40" style="vertical-align:middle;"/>
 
 ## 📊 GitHub Stats: 
 ![](https://nirzak-streak-stats.vercel.app/?user=JoyalMPaul&theme=dark&hide_border=false&v=2) &nbsp;
