@@ -22,11 +22,22 @@
 [![My Frameworks](https://skillicons.dev/icons?i=pytorch,dotnet,django,bootstrap,flutter)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,powershell,azure)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" height="40" style="vertical-align:middle;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" style="vertical-align:middle;"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="AzureDevops" height="40" style="vertical-align:middle;"/>
 <img src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="Adobe" height="40" style="vertical-align:middle;"/>
+
+
+<img src="https://img.icons8.com/?size=100&id=w9gsKSM38X2h&format=png&color=000000"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
           
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002"/>
+<img src="path/to/kivy.svg" alt="Kivy" height="40" style="vertical-align:middle;" />
+
 
 ## 📊 GitHub Stats: 
 ![](https://nirzak-streak-stats.vercel.app/?user=JoyalMPaul&theme=dark&hide_border=false&v=2) &nbsp;
