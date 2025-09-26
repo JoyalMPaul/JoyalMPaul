@@ -32,6 +32,7 @@
 
 ## IDEs / Development / Cloud:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" style="vertical-align:middle;"/>          
+
 [![My Skills](https://skillicons.dev/icons?i=jupyter,vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,adobe,powershell,azure,azuredevops)](https://skillicons.dev)
 
 
