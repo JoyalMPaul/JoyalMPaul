@@ -28,7 +28,7 @@
 ## Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MSSQL" height="40" style="vertical-align:middle;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" height="40" style="vertical-align:middle;" />
           
 
 ## IDEs / Development / Cloud:
