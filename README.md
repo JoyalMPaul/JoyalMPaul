@@ -20,20 +20,11 @@
 # 💻 Tech Stack: 
 
 ## Languages: 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,c,java,dart,assembly,html,css,js)](https://skillicons.dev)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-</br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,c,java,dart,html,css,js)](https://skillicons.dev)
 
 ## Frameworks / Libraries
+[![My Frameworks](https://skillicons.dev/icons?i=pytorch,django,bootstrap,flutter)](https://skillicons.dev)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
