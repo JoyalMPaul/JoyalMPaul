@@ -27,7 +27,9 @@
 
 ## Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MSSQL" height="40" style="vertical-align:middle; border:2px solid white; border-radius:4px; background-color:white;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MSSQL" height="40" style="vertical-align:middle;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+          
 
 ## IDEs / Development / Cloud:
 [![My Skills](https://skillicons.dev/icons?i=jupyter,vscode,visualstudio,idea,pycharm,androidstudio,vim,git,github,adobe,powershell,azure,azuredevops)](https://skillicons.dev)
