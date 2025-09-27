@@ -22,9 +22,9 @@
 
 ## 📝 Languages  
 
-| ![Python](https://skillicons.dev/icons?i=python&size=50) | ![C#](https://skillicons.dev/icons?i=cs&size=50) | ![Java](https://skillicons.dev/icons?i=java&size=50)  | ![C](https://skillicons.dev/icons?i=c&size=50) | ![Dart](https://skillicons.dev/icons?i=dart&size=50) |
-|---|---|---|---|---|
-| ![HTML](https://skillicons.dev/icons?i=html&size=50) | ![CSS](https://skillicons.dev/icons?i=css&size=50) | ![JS](https://skillicons.dev/icons?i=js&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Mips.png" height="50"> |
+| ![Python](https://skillicons.dev/icons?i=python&size=50) | ![C#](https://skillicons.dev/icons?i=cs&size=50) | ![Java](https://skillicons.dev/icons?i=java&size=50)  | ![C](https://skillicons.dev/icons?i=c&size=50) | ![Dart](https://skillicons.dev/icons?i=dart&size=50) | ![HTML](https://skillicons.dev/icons?i=html&size=50) | ![CSS](https://skillicons.dev/icons?i=css&size=50) |
+|---|---|---|---|---|---|---|
+| ![JS](https://skillicons.dev/icons?i=js&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Mips.png" height="50"> |
 
 ## 📊 Data Science & Machine Learning  
 
