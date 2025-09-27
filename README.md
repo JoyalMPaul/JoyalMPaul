@@ -26,24 +26,22 @@
 |---|---|---|---|---|---|---|
 | ![JS](https://skillicons.dev/icons?i=js&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Mips.png" height="50"> |
 
-## 📊 Data Science & Machine Learning  
+## 📈 Data Science & Machine Learning  
 
-| ![PyTorch](https://skillicons.dev/icons?i=pytorch&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/NumPy.png" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Pandas.png" alt="pandas" height="40" style="vertical-align:middle;"/> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Matplotlib.png" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Jupyter.png" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="50"> |
-|---|---|---|---|---|---|
-
+| ![PyTorch](https://skillicons.dev/icons?i=pytorch&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/NumPy.png" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Pandas.png" height="40"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Matplotlib.png" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Jupyter.png" height="50"> |
+|---|---|---|---|---|
 
 ## 🛠 Software Development  
 
-| ![DotNet](https://skillicons.dev/icons?i=dotnet&size=50) | ![Django](https://skillicons.dev/icons?i=django&size=50) | ![Flutter](https://skillicons.dev/icons?i=flutter&size=50) | ![MySQL](https://skillicons.dev/icons?i=mysql&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/MicrosoftSQL.png" height="80"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Azure%20SQL%20Database.png" height="50"> | ![Git](https://skillicons.dev/icons?i=git&size=50) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&size=50) | |
-|---|---|---|---|---|---|---|---|---|
-| ![Azure](https://skillicons.dev/icons?i=azure&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Azure%20Devops.png" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Render.png" height="50"> |<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Wix.png" height="50"> | | | | |
+| ![DotNet](https://skillicons.dev/icons?i=dotnet&size=50) | ![Django](https://skillicons.dev/icons?i=django&size=50) | ![Flutter](https://skillicons.dev/icons?i=flutter&size=50) | ![MySQL](https://skillicons.dev/icons?i=mysql&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/MicrosoftSQL.png" height="80"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Azure%20SQL%20Database.png" height="50"> | ![Git](https://skillicons.dev/icons?i=git&size=50) |
+|---|---|---|---|---|---|---|
+| ![Azure](https://skillicons.dev/icons?i=azure&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Azure%20Devops.png" height="50"> |  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&size=50) | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Render.png" height="50"> |<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Wix.png" height="50"> | | | |
 
+## ⚙️ IDEs & Development  
 
-## 💻 IDEs & Development  
-
-| ![VSCode](https://skillicons.dev/icons?i=vscode&size=50) | ![VisualStudio](https://skillicons.dev/icons?i=visualstudio&size=50) | ![IntelliJ](https://skillicons.dev/icons?i=idea&size=50) | ![PyCharm](https://skillicons.dev/icons?i=pycharm&size=50) | ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&size=50) | ![Vim](https://skillicons.dev/icons?i=vim&size=50) | ![GitHub](https://skillicons.dev/icons?i=github&size=50) |  ![PowerShell](https://skillicons.dev/icons?i=powershell&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Spim.png" height="50"> | ![Windows](https://skillicons.dev/icons?i=windows&size=50) |
-|---|---|---|---|---|---|---|---|---|---|
-
+| ![VSCode](https://skillicons.dev/icons?i=vscode&size=50) | ![VisualStudio](https://skillicons.dev/icons?i=visualstudio&size=50) | ![IntelliJ](https://skillicons.dev/icons?i=idea&size=50) | ![PyCharm](https://skillicons.dev/icons?i=pycharm&size=50) | ![Anaconda](https://skillicons.dev/icons?i=anaconda&size=50) | ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&size=50) | ![Vim](https://skillicons.dev/icons?i=vim&size=50) | 
+|---|---|---|---|---|---|---|
+![GitHub](https://skillicons.dev/icons?i=github&size=50) | ![PowerShell](https://skillicons.dev/icons?i=powershell&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Spim.png" height="50"> | ![Windows](https://skillicons.dev/icons?i=windows&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Adobe.png" height="50">
 
 
 ## 📊 GitHub Stats: 
