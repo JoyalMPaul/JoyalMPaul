@@ -20,13 +20,30 @@
 # 💻 Tech Stack: 
 
 
-| ![Python](https://skillicons.dev/icons?i=python&size=50) | ![C](https://skillicons.dev/icons?i=c&size=50) | ![Java](https://skillicons.dev/icons?i=java&size=50) | ![Dart](https://skillicons.dev/icons?i=dart&size=50) | ![HTML](https://skillicons.dev/icons?i=html&size=50) | ![CSS](https://skillicons.dev/icons?i=css&size=50) | ![JS](https://skillicons.dev/icons?i=js&size=50) |
-|----------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|--------------------------------------------------|-------------------------------------------------|------------------------------------------------|
-| ![PyTorch](https://skillicons.dev/icons?i=pytorch&size=50) | ![DotNet](https://skillicons.dev/icons?i=dotnet&size=50) | ![Django](https://skillicons.dev/icons?i=django&size=50) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&size=50) | ![Flutter](https://skillicons.dev/icons?i=flutter&size=50) | ![MySQL](https://skillicons.dev/icons?i=mysql&size=50) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50"> |
-| ![VSCode](https://skillicons.dev/icons?i=vscode&size=50) | ![VisualStudio](https://skillicons.dev/icons?i=visualstudio&size=50) | ![IntelliJ](https://skillicons.dev/icons?i=idea&size=50) | ![PyCharm](https://skillicons.dev/icons?i=pycharm&size=50) | ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&size=50) | ![Vim](https://skillicons.dev/icons?i=vim&size=50) | ![Git](https://skillicons.dev/icons?i=git&size=50) |
-| ![GitHub](https://skillicons.dev/icons?i=github&size=50) | ![PowerShell](https://skillicons.dev/icons?i=powershell&size=50) | ![Azure](https://skillicons.dev/icons?i=azure&size=50) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="50"> | <img src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Render.png?token=GHSAT0AAAAAADJQLB6VKMEBJTQ7KM7DF2GM2GXCU5A" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="50"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Spim.png?token=GHSAT0AAAAAADJQLB6UZ4BJ4YSB7TIVN23K2GXC3PQ" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Mips.png?token=GHSAT0AAAAAADJQLB6VSJBUHTWTWSG2XO2W2GXC72A" height="50"> |
-| <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Wix.png?token=GHSAT0AAAAAADJQLB6UCZWB4Y2BAAWQQ3L42GXDDLQ" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50"/> | | | | | |
+## 📝 Languages  
+
+| ![Python](https://skillicons.dev/icons?i=python&size=50) | ![C](https://skillicons.dev/icons?i=c&size=50) | ![Java](https://skillicons.dev/icons?i=java&size=50) | ![Dart](https://skillicons.dev/icons?i=dart&size=50) | ![HTML](https://skillicons.dev/icons?i=html&size=50) | ![CSS](https://skillicons.dev/icons?i=css&size=50) | ![JS](https://skillicons.dev/icons?i=js&size=50) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50"/> |
+|---|---|---|---|---|---|---|---|
+
+## 📊 Data Science & Machine Learning  
+
+| ![PyTorch](https://skillicons.dev/icons?i=pytorch&size=50) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" height="40" style="vertical-align:middle;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="50"> | | |
+|---|---|---|---|---|---|---|---|
+
+
+## 🛠 Software Development  
+
+| ![DotNet](https://skillicons.dev/icons?i=dotnet&size=50) | ![Django](https://skillicons.dev/icons?i=django&size=50) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&size=50) | ![Flutter](https://skillicons.dev/icons?i=flutter&size=50) | ![MySQL](https://skillicons.dev/icons?i=mysql&size=50) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50"> | ![Git](https://skillicons.dev/icons?i=git&size=50) | ![GitHub](https://skillicons.dev/icons?i=github&size=50) |
+|---|---|---|---|---|---|---|---|
+
+| ![PowerShell](https://skillicons.dev/icons?i=powershell&size=50) | ![Azure](https://skillicons.dev/icons?i=azure&size=50) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Wix.png" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Spim.png" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/Mips.png" height="50"> |
+|---|---|---|---|---|---|---|
+
+## 💻 IDEs & Development  
+
+| ![VSCode](https://skillicons.dev/icons?i=vscode&size=50) | ![VisualStudio](https://skillicons.dev/icons?i=visualstudio&size=50) | ![IntelliJ](https://skillicons.dev/icons?i=idea&size=50) | ![PyCharm](https://skillicons.dev/icons?i=pycharm&size=50) | ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&size=50) | ![Vim](https://skillicons.dev/icons?i=vim&size=50) |
+|---|---|---|---|---|---|
+
 
 
 ## 📊 GitHub Stats: 
