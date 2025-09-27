@@ -8,10 +8,10 @@
 📊 **Aspiring Data Scientist** | 💻 **Software Developer** 
 
 🎓 Current Freshman studying CS at Binghamton University <br> 
-🛠️ Skills: Python | C | C# | Assembly | Git <br>
+🛠️ Skills: Python | C# | Java | C | Dart | Assembly | HTML | CSS | JS & (SQL + GIT) <br>
 🤖 Exploring AI/ML, cloud computing, and backend development <br> 
-🧠 Learning PyTorch and ASP.NET <br>
-👥 Participating in clubs: ACM, ColorStack, Game Development Group 
+🧠 Learning PyTorch and building larger scale projects with ASP.NET MVC <br>
+👥 Participating in clubs: ACM, ColorStack, Game Development Group, Stack Hacks
 
 💼 Open to part-time jobs, internships, micro-internships, research, and volunteering <br> 
 📫 Let’s connect! Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyalpaul/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyalmathewpaul@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/JoyalMPaul/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@JoyalPaul-28) <br>
