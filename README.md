@@ -41,7 +41,7 @@
 
 | ![VSCode](https://skillicons.dev/icons?i=vscode&size=50) | ![VisualStudio](https://skillicons.dev/icons?i=visualstudio&size=50) | ![IntelliJ](https://skillicons.dev/icons?i=idea&size=50) | ![PyCharm](https://skillicons.dev/icons?i=pycharm&size=50) | ![Anaconda](https://skillicons.dev/icons?i=anaconda&size=50) | ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&size=50) | ![Vim](https://skillicons.dev/icons?i=vim&size=50) | 
 |---|---|---|---|---|---|---|
-![GitHub](https://skillicons.dev/icons?i=github&size=50) | ![PowerShell](https://skillicons.dev/icons?i=powershell&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Spim.png" height="50"> | ![Windows](https://skillicons.dev/icons?i=windows&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Adobe.png" height="50">
+![GitHub](https://skillicons.dev/icons?i=github&size=50) | ![PowerShell](https://skillicons.dev/icons?i=powershell&size=50) | ![Windows](https://skillicons.dev/icons?i=windows&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Adobe.png" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Spim.png" height="50"> |
 
 
 ## 📊 GitHub Stats: 
