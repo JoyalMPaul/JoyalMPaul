@@ -37,7 +37,7 @@
 |---|---|---|---|---|---|---|
 | ![Azure](https://skillicons.dev/icons?i=azure&size=50) | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Azure%20Devops.png" height="50"> |  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&size=50) | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Kivy-logo-black-512.png?20150103154002" height="50"> | <img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Render.png" height="50"> |<img src="https://raw.githubusercontent.com/JoyalMPaul/Assets/refs/heads/main/ReadMe_Images/Wix.png" height="50"> | | | |
 
-## ⚙️ IDEs & Development  
+## ⚙️ IDEs & Dev Tools
 
 | ![VSCode](https://skillicons.dev/icons?i=vscode&size=50) | ![VisualStudio](https://skillicons.dev/icons?i=visualstudio&size=50) | ![IntelliJ](https://skillicons.dev/icons?i=idea&size=50) | ![PyCharm](https://skillicons.dev/icons?i=pycharm&size=50) | ![Anaconda](https://skillicons.dev/icons?i=anaconda&size=50) | ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&size=50) | ![Vim](https://skillicons.dev/icons?i=vim&size=50) | 
 |---|---|---|---|---|---|---|
