@@ -8,7 +8,7 @@
 📊 **Aspiring Data Scientist** | 💻 **Software Developer** 
 
 🎓 Current Freshman studying CS at Binghamton University <br> 
-🛠️ Skills: Python | C# | Java | C | Dart | Assembly | HTML | CSS | JS & (SQL + GIT) <br>
+🛠️ Skills: Python | C# | Java | C | Dart | Assembly | HTML | CSS | JS | SQL | GIT <br>
 🤖 Exploring AI/ML, cloud computing, and backend development <br> 
 🧠 Learning PyTorch and building larger scale projects with ASP.NET MVC <br>
 👥 Participating in clubs: ACM, ColorStack, Game Development Group, Stack Hacks
