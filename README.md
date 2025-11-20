@@ -13,7 +13,7 @@
 🧠 Improving with PyTorch and building larger scale projects with ASP.NET MVC <br>
 👥 Participating in clubs: ACM, ColorStack, Game Development Group, Stack Hacks
 
-💼 Open to part-time jobs, internships, micro-internships, research, and volunteering <br> 
+💼 Open to internships, contributing to open source projects, part-time jobs, micro-internships, research, and volunteering <br> 
 📫 Let’s connect! Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyalpaul/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyalmathewpaul@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/JoyalMPaul/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@JoyalPaul-28) <br>
 👉 Check out: [My Website](https://joyalmathewpaul.wixsite.com/joyalpaul) <br>
 
