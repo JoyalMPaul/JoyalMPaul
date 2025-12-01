@@ -5,7 +5,7 @@
 
 👋 Hi, I'm Joyal! 
 
-📊 **Aspiring Data Scientist** | 💻 **Software Engineer** 
+💻 **Full-Stack Software Engineer** | 📊 **Machine Learning Developer** 
 
 🎓 Current Freshman studying CS at Binghamton University <br> 
 🛠️ Skills: Python | C# | Java | C | Dart | Assembly | HTML | CSS | JS | SQL | GIT <br>
